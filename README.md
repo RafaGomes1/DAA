@@ -4,6 +4,6 @@
 
 <div align="center">
 
-| [Lucas Oliveira](https://github.com/LucasOli20) | [Pedro Parpot](https://github.com/) | [Rafael Gomes](https://github.com/RafaGomes1) |
+| [Lucas Oliveira](https://github.com/LucasOli20) | [Pedro Parpot](https://github.com/zeolito) | [Rafael Gomes](https://github.com/RafaGomes1) |
 
 </div>
